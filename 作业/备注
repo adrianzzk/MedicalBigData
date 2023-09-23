@@ -1,0 +1,6 @@
+#备注
+HCC:癌  Adjacent：癌旁
+
+HCC=0 Adjacent=1
+X为原始数据，x为标准化后的数据，x_lasso为lasso筛选后的数据
+alpha=[0.006551285568595509]
